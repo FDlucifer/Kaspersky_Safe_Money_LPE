@@ -1,5 +1,8 @@
 # Kaspersky Safe Money Local Privilege Escalation
-So in the last days I discovered a lot of local privileges escalation bugs in kaspersky products, about 11 vulnerability were reported, 3 of them were patched while 8 of them are still unpatched. I ain't gonna lie firstly they were very nice to me (even in the end) but their bounty were low (I won't spend 3 days for 500$) and even in the last 2 reports they didn't rewarded them. Don't expect me to work for free, I don't have a job at cyberark or something ? I asked for acknowledgements in they're next advisory but they don't seems to be caring too much while they acknowledged some dll hijack bugs. So no bounty and no acknowledgments, nothing make me report this to them instead of public disclosure.
+So in the last days I discovered a lot of local privileges escalation bugs in kaspersky products, about 11 vulnerability were reported, 3 of them were patched while 8 of them are still unpatched. I ain't gonna lie firstly they were very nice to me (even in the end) but their bounty were low (I won't spend 3 days for 500$) and even in the last 2 reports they didn't rewarded them. Don't expect me to work for free, I don't have a job at cyberark or something ? I asked for acknowledgements in they're next advisory but they don't seems to be caring too much while they acknowledged some dll hijack bugs. 
+
+So no bounty and no acknowledgments, nothing make me report this to them instead of public disclosure.
+
 However at the time of this disclosure kaspersky is unaware of this bug, this bug affect kaspersky safe money module which comes by default installed with kaspersky internet security & kaspersky total security & kaspersky cloud security.
 
 
